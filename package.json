@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@docusaurus/theme-search-algolia": "^3.7.0"
+  }
+}
