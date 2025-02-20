@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PIX3L-IT/Documentacion/tree/main/',
+            'https://github.com/PIX3L-IT/Wiki/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -107,7 +107,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/PIX3L-IT/Documentacion',
+            href: 'https://github.com/PIX3L-IT/Wiki',
             label: 'Notion',
             position: 'right',
           },
@@ -133,7 +133,7 @@ const config = {
               },
               {
                 label: 'Github Wiki',
-                href: 'https://github.com/PIX3L-IT/Documentacion',
+                href: 'https://github.com/PIX3L-IT/Wiki',
               },
             ],
           },
