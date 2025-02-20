@@ -91,8 +91,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',
+            label: 'Drive',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/PIX3L-IT/Documentacion',
-            label: 'GitHub',
+            label: 'Notion',
             position: 'right',
           },
         ],
@@ -101,11 +106,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Nuestros links',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Drive',
+                href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/avGvj3GGcr',
+              },
+              {
+                label: 'Notion',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              },
+              {
+                label: 'Github',
+                href: 'https://github.com/PIX3L-IT/Documentacion',
               },
             ],
           },
