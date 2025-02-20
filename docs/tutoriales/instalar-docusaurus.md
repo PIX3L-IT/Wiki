@@ -35,7 +35,7 @@ Antes de usar Docusaurus, asegúrate de tener:
 
     *   **Escribir/Editar Documentación:**
         *   Los archivos de documentación están en la carpeta `docs`, y dentro encontrarás las distintas secciones que tenemos.
-        *   Para hacer una nueva página, crea un nuevo archivo de Markdown (`.md`).
+        *   Para hacer una nueva página, crea un nuevo archivo de Markdown (`.md`) en la carpeta correspondiente.
         *  Se puede editar en cualquier IDE, o incluso puedes hacer primero el documento en word si no te gusta el MD y le pides a chat que lo traduzca.
 
     *   **Ver los Cambios Localmente:**
