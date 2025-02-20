@@ -91,15 +91,15 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "tutorialesSidebar",
-            position: "left",
-            label: "Tutoriales",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "politicasSidebar",
             position: "left",
             label: "Políticas",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "tutorialesSidebar",
+            position: "left",
+            label: "Tutoriales",
           },
           {
             href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',

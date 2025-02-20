@@ -14,25 +14,29 @@ Antes de usar Docusaurus, asegúrate de tener:
 
 
 
-## 🎯 Flujo de Trabajo Básico
+## 🎯 Instalación y uso
 
+
+    *   **Descargar docusaurus:**
+        ```bash
+        npm install docusaurus
+        ```
 
     *   **Clonar el Repositorio:**
         ```bash
-        git clone https://github.com/alexmushi/pruebaDocusaurus.git
-        cd pruebaDocusaurus
+        git clone https://github.com/PIX3L-IT/Wiki
+        cd Wiki
         ```
 
-    *   **Crear una branch:**  Probablemente será buena idea crear nuevas branches cada vez que se agregue algo nuevo (substancial), para que haya alguien que cree el documento y alguien que lo revise
+    *   **Crear una branch:**  Cada vez que se vaya a hacer un cambio substancial, hay que hacer una rama para agregarlo con PR
         ```bash
         git checkout -b mi-nueva-caracteristica
         ```
 
     *   **Escribir/Editar Documentación:**
-        *   Los archivos de documentación están en la carpeta `docs`.
-        *   Usa Markdown (`.md`) o MDX (`.mdx` es para agregar componentes de React).
-        *   Los archivos están organizados en carpetas, podemos definir una estructura desde el inicio
-        *  Se pueden editar en cualquier IDE, o incluso pueden hacer primero el documento en word si no les gusta el MD y le piden a chat que lo traduzca
+        *   Los archivos de documentación están en la carpeta `docs`, y dentro encontrarás las distintas secciones que tenemos.
+        *   Para hacer una nueva página, crea un nuevo archivo de Markdown (`.md`).
+        *  Se puede editar en cualquier IDE, o incluso puedes hacer primero el documento en word si no te gusta el MD y le pides a chat que lo traduzca.
 
     *   **Ver los Cambios Localmente:**
 
@@ -49,7 +53,7 @@ Antes de usar Docusaurus, asegúrate de tener:
           > docusaurus start
 
           [INFO] Starting the development server...
-          [SUCCESS] Docusaurus website is running at: http://localhost:3000/pruebaDocusaurus/
+          [SUCCESS] Docusaurus website is running at: http://localhost:3000/Wiki/
 
           √ Client
             Compiled successfully in 996.50ms
@@ -61,9 +65,7 @@ Antes de usar Docusaurus, asegúrate de tener:
 
         Esto inicia un servidor de desarrollo local.  Verás los cambios en tiempo real mientras editas.
 
-        En este caso, Docusaurus estará disponible en [`http://localhost:3000/pruebaDocusaurus`](http://localhost:3000/pruebaDocusaurus) 🚀.
-
-Ahorita para acceder a las páginas prueba, debes seleccionar **Tutorial** en la barra de navegación.
+        En este caso, Docusaurus estará disponible en [`http://localhost:3000/Wiki`](http://localhost:3000/Wiki) 🚀.
        
 
     *   **Añadir, Confirmar y Subir Cambios:**
@@ -74,6 +76,13 @@ Ahorita para acceder a las páginas prueba, debes seleccionar **Tutorial** en la
         git push
         ```
 
+    :::warning
+
+    Para que la documentación que subiste aparezca en la página pública (no en local) deberá de estar en la rama `main`, asegúrate de hacer un PR en el caso de haber creado una rama aparte.
+
+    :::
+
+
     *   **Crear un Pull Request (PR):**
         *   Crea un Pull Request desde tu rama (`mi-nueva-caracteristica`) hacia la rama principal (`main` o `master`).
         *   Describe los cambios en el PR.  *Sé detallado*.
@@ -82,6 +91,7 @@ Ahorita para acceder a las páginas prueba, debes seleccionar **Tutorial** en la
 
     *   **Merge:**
         *   Una vez que el PR sea aprobado, la rama será fusionada con main. Una vez hecho esto, automaticamente se desplegarán los cambios en la página de github donde todos lo podrán consultar.
+
 
 
 
