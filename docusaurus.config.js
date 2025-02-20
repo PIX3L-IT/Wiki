@@ -101,7 +101,6 @@ const config = {
             position: "left",
             label: "Políticas",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',
             label: 'Drive',
