@@ -22,9 +22,9 @@ Describe el objetivo del proceso, su importancia y beneficio dentro del departam
 
 ## Actividades por Etapas
 
-| Etapa               | Actividad                           | Responsable                                          | Áreas de proceso y prácticas asociadas                                                          | Desviaciones                                                         |
-| ------------------- | ----------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Nombre de la etapa. | Nombre y contenido de la actividad. | Miembros responsables de llevar a cabo la actividad. | Áreas de proceso y prácticas específicas o genéricas que pueden estar asociadas a la actividad. | Nombre y justiicación de las desviaciones generadas en la actividad. |
+| Etapa               | Actividad                           | Responsable                                          | Áreas de proceso y prácticas asociadas                                                          | Desviaciones                                                          |
+| ------------------- | ----------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Nombre de la etapa. | Nombre y contenido de la actividad. | Miembros responsables de llevar a cabo la actividad. | Áreas de proceso y prácticas específicas o genéricas que pueden estar asociadas a la actividad. | Nombre y justificación de las desviaciones generadas en la actividad. |
 
 ## Salidas
 

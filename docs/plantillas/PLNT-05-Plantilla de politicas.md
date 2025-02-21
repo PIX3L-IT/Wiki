@@ -1,7 +1,7 @@
 ---
-title: PLNT-05-Plantilla de politicas
-sidebar_label: PLNT-05-Plantilla de politicas
-slug: /plnt-05-plantilla-de-politicas
+title: PLNT-05-Plantilla de políticas
+sidebar_label: PLNT-05-Plantilla de políticas
+slug: /plnt-05-plantilla-de-políticas
 ---
 
 # PLNT-05-Plantilla de políticas

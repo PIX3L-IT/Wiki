@@ -110,7 +110,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "estandaresSidebar",
             position: "left",
-            label: "Estandares",
+            label: "Estándares",
           },
           {
             href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
