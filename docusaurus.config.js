@@ -113,6 +113,12 @@ const config = {
             label: "Estándares",
           },
           {
+            type: "docSidebar",
+            sidebarId: "eticaSidebar",
+            position: "left",
+            label: "Código de Ética",
+          },
+          {
             href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
             label: "Drive",
             position: "right",
