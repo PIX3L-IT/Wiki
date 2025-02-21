@@ -61,6 +61,15 @@ Antes de usar Docusaurus, asegúrate de tener:
           client (webpack 5.98.0) compiled successfully
           ```
 
+    :::info
+
+    En el caso de que salga un error como el siguiente: `MODULE_NOT_FOUND` desinstala la carpeta `node_modules` y corre
+    ```bash
+        npm install
+        ```
+
+    :::
+
       Automáticamente se desplegará la página en tu navegador. 
 
         Esto inicia un servidor de desarrollo local.  Verás los cambios en tiempo real mientras editas.
@@ -91,10 +100,6 @@ Antes de usar Docusaurus, asegúrate de tener:
 
     *   **Merge:**
         *   Una vez que el PR sea aprobado, la rama será fusionada con main. Una vez hecho esto, automaticamente se desplegarán los cambios en la página de github donde todos lo podrán consultar.
-
-
-
-
 
 ## ✅ Conclusión
 ¡Ahora tienes Docusaurus instalado y corriendo! 🎉 Puedes interactuar con la documentación modificando los archivos en `docs`.
