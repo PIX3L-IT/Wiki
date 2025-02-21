@@ -4,68 +4,67 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PIXEL.IT',
-  tagline: 'Soluciones creadas pixel a pixel',
-  favicon: 'img/favicon-pixelit.ico',
+  title: "PIXEL.IT",
+  tagline: "Soluciones creadas pixel a pixel",
+  favicon: "img/favicon-pixelit.ico",
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: "https://github.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki/',
+  baseUrl: "/Wiki/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'PIX3L-IT', // Usually your GitHub org/user name.
-  projectName: 'Wiki', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: "PIX3L-IT", // Usually your GitHub org/user name.
+  projectName: "Wiki", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "warn",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/PIX3L-IT/Wiki/tree/main/',
+          editUrl: "https://github.com/PIX3L-IT/Wiki/tree/main/",
         },
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -75,12 +74,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'PIXEL.IT',
+        title: "PIXEL.IT",
         logo: {
-          alt: 'Logo de PIXEL.IT',
-          src: 'img/pixelit-color-logo.svg'
+          alt: "Logo de PIXEL.IT",
+          src: "img/pixelit-color-logo.svg",
         },
         items: [
           {
@@ -102,42 +101,53 @@ const config = {
             label: "Tutoriales",
           },
           {
-            href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',
-            label: 'Drive',
-            position: 'right',
+            type: "docSidebar",
+            sidebarId: "plantillasSidebar",
+            position: "left",
+            label: "Plantillas",
           },
           {
-            href: 'https://github.com/PIX3L-IT/Wiki',
-            label: 'Notion',
-            position: 'right',
+            type: "docSidebar",
+            sidebarId: "estandaresSidebar",
+            position: "left",
+            label: "Estándares",
+          },
+          {
+            href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
+            label: "Drive",
+            position: "right",
+          },
+          {
+            href: "https://github.com/PIX3L-IT/Wiki",
+            label: "Notion",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Nuestros links',
+            title: "Nuestros links",
             items: [
               {
-                label: 'Drive',
-                href: 'https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link',
+                label: "Drive",
+                href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
               },
               {
-                label: 'Discord',
-                href: 'https://discord.gg/avGvj3GGcr',
+                label: "Discord",
+                href: "https://discord.gg/avGvj3GGcr",
               },
               {
-                label: 'Notion',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "Notion",
+                href: "https://stackoverflow.com/questions/tagged/docusaurus",
               },
               {
-                label: 'Github Wiki',
-                href: 'https://github.com/PIX3L-IT/Wiki',
+                label: "Github Wiki",
+                href: "https://github.com/PIX3L-IT/Wiki",
               },
             ],
           },
-          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} PIXEL.IT. Built with Docusaurus.`,
       },
