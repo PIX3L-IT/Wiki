@@ -96,12 +96,6 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "tutorialesSidebar",
-            position: "left",
-            label: "Tutoriales",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "plantillasSidebar",
             position: "left",
             label: "Plantillas",
@@ -111,6 +105,12 @@ const config = {
             sidebarId: "estandaresSidebar",
             position: "left",
             label: "Estándares",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "tutorialesSidebar",
+            position: "left",
+            label: "Usar Docusaurus",
           },
           {
             href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
