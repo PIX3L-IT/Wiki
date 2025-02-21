@@ -96,15 +96,15 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "plantillasSidebar",
-            position: "left",
-            label: "Plantillas",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "estandaresSidebar",
             position: "left",
             label: "Estándares",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "plantillasSidebar",
+            position: "left",
+            label: "Plantillas",
           },
           {
             type: "docSidebar",
