@@ -90,15 +90,21 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "politicasSidebar",
-            position: "left",
-            label: "Políticas",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "estandaresSidebar",
             position: "left",
             label: "Estándares",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "guiasSidebar",
+            position: "left",
+            label: "Guías",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "politicasSidebar",
+            position: "left",
+            label: "Políticas",
           },
           {
             type: "docSidebar",
