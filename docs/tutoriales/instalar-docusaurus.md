@@ -104,4 +104,4 @@ Antes de usar Docusaurus, asegúrate de tener:
 ## ✅ Conclusión
 ¡Ahora tienes Docusaurus instalado y corriendo! 🎉 Puedes interactuar con la documentación modificando los archivos en `docs`.
 
-Docusaurus es una herramienta que pensamos que sería buena idea utilizar para la documentación, pues tiene control de versiones y esta hecha con react (lo cual nos abre la puerta a muchas opciones, incluyendo una barra de búsqueda global). 
+Docusaurus es una herramienta que pensamos que sería buena idea utilizar para la documentación, pues tiene control de versiones y está hecha con react (lo cual nos abre la puerta a muchas opciones, incluyendo una barra de búsqueda global). 
