@@ -1,10 +1,10 @@
 ---
-title: EST-01-Estándar para redactar commits para la wiki
-sidebar_label: EST-01-Estándar para redactar commits para la wiki
-slug: /est-01-redactar-commits-wiki/
+title: EST-01-Estándar para redactar commits en los repositorios
+sidebar_label: EST-01-Estándar para redactar commits en los repositorios
+slug: /est-01-redactar-commits/
 ---
 
-# EST-01-Estándar para redactar commits para la wiki
+# EST-01-Estándar para redactar commits en los repositorios
 
 ## Propósito
 El propósito de este documento es definir un estándar para el despacho de Pixel.IT en todos sus repositorios, para garantizar la consistencia y poder entender todos los cambios realizados por los miembros de Pixel.IT
