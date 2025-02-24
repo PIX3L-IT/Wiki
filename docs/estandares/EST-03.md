@@ -58,14 +58,14 @@ El propósito de este documento es definir un estándar de nombramiento de ramas
     - *tipo-de-rama/version/id-descripción*
 
 Donde: 
-1. tipo-de-rama: Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
-2. version: Representa el número de versión (por ejemplo, v1.0.0). Para más información sobre el versionamiento, consultar EST-02.
-3. id-descripción: Combina un identificador y una breve descripción de lo que se trabajará en la rama.
-    - id: 
+1. **tipo-de-rama:** Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
+2. **version:** Representa el número de versión (por ejemplo, v1.0.0). Para más información sobre el versionamiento, consultar EST-02.
+3. **id-descripción:** Combina un identificador y una breve descripción de lo que se trabajará en la rama.
+    - **id:** 
         - En proyectos, se utiliza el identificador del requisito que se abordará.
         - En la wiki, se utiliza una abreviación que indique el tipo de contenido (por ejemplo, proceso, estándar, guía, etc.) seguida de un número.
         - Ejemplo: Si se va a agregar un nuevo estándar y el último es ```EST-08```, el identificador de la rama será: ```EST-09```.
-    - descripción: 
+    - **descripción:**
         - En la wiki, se incluye una breve descripción del proceso, estándar o guía que se va a trabajar.
         - En proyectos, se ofrece una breve descripción de la tarea o funcionalidad que se implementará.
 
