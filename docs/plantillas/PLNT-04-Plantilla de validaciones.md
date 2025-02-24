@@ -20,11 +20,11 @@ Describe el objetivo de la validación, y el proceso o actividad en el cual se r
 
 ## Artefactos en los se utiliza
 
-- Nombre del documento: [Link si aplica](https://example.com/)
-- Documento 2: [Link](https://example.com/)
+- Nombre del documento: [Link si aplica](https://example.com/).
+- Documento 2: [Link](https://example.com/).
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
-| ------- | --------------------- | -------------- | ---------- |
-| 1.0.0   | Creación de plantilla | Carlos Galicia | 17/02/2025 |
+| Versión | Cambios realizados     | Autor          | Fecha      |
+| ------- | ---------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de plantilla. | Carlos Galicia | 17/02/2025 |

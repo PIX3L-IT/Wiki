@@ -1,7 +1,7 @@
 ---
 title: PLNT-02-Plantilla de estándares
 sidebar_label: PLNT-02-Plantilla de estándares
-slug: /plnt-02-plantilla-de-estandares
+slug: /plnt-02-plantilla-de-estándares
 ---
 
 # PLNT-02-Plantilla de estándares
@@ -31,6 +31,6 @@ Describe el objetivo del estándar, su importancia y beneficio dentro del depart
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
-| ------- | --------------------- | -------------- | ---------- |
-| 1.0.0   | Creación de plantilla | Carlos Galicia | 17/02/2025 |
+| Versión | Cambios realizados     | Autor          | Fecha      |
+| ------- | ---------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de plantilla. | Carlos Galicia | 17/02/2025 |

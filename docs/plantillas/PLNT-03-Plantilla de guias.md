@@ -13,14 +13,14 @@ Describe el objetivo del manual o guía dentro del departamento de software.
 ## Procedimiento
 
 1. **Paso 1:**
-   Contenido del primer paso a seguir
+   Contenido del primer paso a seguir.
 2. **Paso 2:**
-   Contenido del segundo paso a seguir
+   Contenido del segundo paso a seguir.
 3. **Paso 3:**
-   Contenido del primer paso a seguir
+   Contenido del primer paso a seguir.
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
-| ------- | --------------------- | -------------- | ---------- |
-| 1.0.0   | Creación de plantilla | Carlos Galicia | 17/02/2025 |
+| Versión | Cambios realizados     | Autor          | Fecha      |
+| ------- | ---------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de plantilla. | Carlos Galicia | 17/02/2025 |
