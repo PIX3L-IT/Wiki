@@ -14,7 +14,7 @@ Esta guía explica cómo redactar el mensaje de un commit en el repositorio de l
 
 ### Formato General del Mensaje
 - Todos los commits siguen el siguiente formato para su mensaje:
-    - *&lt;tipo-de-commit&gt;(&lt;scope&gt;): &lt;descripción&gt;*
+    - *tipo-de-commit(scope): descripción*
 
 ### Componentes del Formato
 - Existen cinco distintos tipos de commits:
@@ -62,3 +62,4 @@ Esta guía explica cómo redactar el mensaje de un commit en el repositorio de l
 | Version | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de guía | Jesús Cedillo & Paulina Almada | 21/02/2025 |
+| 1.0.1   | Corrección de formato general | Paulina Almada | 21/02/2025 |
