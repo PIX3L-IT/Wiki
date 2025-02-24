@@ -9,6 +9,10 @@ slug: /est-01-redactar-commits-wiki/
 ## Propósito
 El propósito de este documento es definir un estándar para el despacho de Pixel.IT en todos sus repositorios, para garantizar la consistencia y poder entender todos los cambios realizados por los miembros de Pixel.IT
 
+## Artefactos en los que aplica
+
+- Commits en el repositorio de la Wiki: https://github.com/PIX3L-IT/Wiki/tree/main 
+
 ## Estándares
 
 ### Formato General del Mensaje
