@@ -1,0 +1,86 @@
+---
+title: EST-03-Estándar para nombrar a las ramas en los repositorios
+sidebar_label: EST-03-Estándar para nombrar a las ramas en los repositorios
+slug: /est-03-nombrar-ramas
+---
+
+# EST-03-Estándar para nombrar a las ramas en los repositorios
+
+## Propósito
+El propósito de este documento es definir un estándar de nombramiento de ramas para el despacho de Pixel.IT. Esto garantiza la consistencia entre los repositorios, y el propósito que tiene cada rama en dichos repositorios. 
+
+## Artefactos en los que aplica
+
+- Ramas en el repositorio de la Wiki: https://github.com/PIX3L-IT/Wiki
+
+## Estándares
+
+### Lineamientos generales
+- Las ramas deben de seguir los siguientes lineamientos:
+    - **Minúsculas y separados por guiones:** Siempre usar las letras minúsculas y usar guiones para separar las palabras. Ejemplo: ```feature/new-login```.
+    - **Caracteres Alphanuméricos:** Solo usar guiones y caracteres alphanuméricos (a-z, A-Z, 0–9). No usar espacios, signos de puntación, etc. 
+    - **Sin guiones continuos:** No usar guiones continuos, ya confunde y es difícil de leer. Ejemplo: ```feature--new-login```.
+    - **Sin guiones al final:** No acabar el nombre de la rama con un guión. Ejemplo: ```feature-new-login-```.
+    - **Descriptivo:** El nombre es descriptivo y consiso, idealmente reflejando el trabajo realizado en la rama. 
+
+### Componentes del Formato
+- Los distintos tipos de ramas se definen siguiendo las convenciones descritas en [este recurso](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534) y en [esta referencia](https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/naming-git-branches/):
+
+<table>
+  <tr>
+    <td>feature</td>
+    <td>Agrega una nueva funcionalidad para el usuario.</td>
+  </tr>
+  <tr>
+    <td>bugfix</td>
+    <td>Arregla errores en el código.</td>
+  </tr>
+  <tr>
+    <td>hotfix</td>
+    <td>Arregla errores críticos que ya están en producción. Estas ramas son hechas directo de producción.</td>
+  </tr>
+  <tr>
+    <td>release</td>
+    <td>Prepara versiones de lanzamiento a producción.</td>
+  </tr>
+  <tr>
+    <td>docs</td>
+    <td>Escribe, actualiza y mejora documentación. Ejemplo: actualizar el README.md.</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>Para pruebas o experimentación que no se consideran como un bug.</td>
+  </tr>
+</table>
+
+### Formato General
+- El formato general para nombrar las ramas debe incluir tres componentes, separados por una barra y, en el caso del último componente, por un guion. El formato es:
+    - *tipo-de-rama/version/id-descripción*
+
+Donde: 
+1. tipo-de-rama: Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
+2. version: Representa el número de versión (por ejemplo, v1.0.0). Para más información sobre el versionamiento, consultar EST-02.
+3. id-descripción: Combina un identificador y una breve descripción de lo que se trabajará en la rama.
+    - id: 
+        - En proyectos, se utiliza el identificador del requisito que se abordará.
+        - En la wiki, se utiliza una abreviación que indique el tipo de contenido (por ejemplo, proceso, estándar, guía, etc.) seguida de un número.
+        - Ejemplo: Si se va a agregar un nuevo estándar y el último es ```EST-08```, el identificador de la rama será: ```EST-09```.
+    - descripción: 
+        - En la wiki, se incluye una breve descripción del proceso, estándar o guía que se va a trabajar.
+        - En proyectos, se ofrece una breve descripción de la tarea o funcionalidad que se implementará.
+
+- **Nota:** En el caso de las ramas release, no es necesario agregar el id y la descripción. Esto porque las ramas release preparan una salida a producción y no consiste de una funcionalidad específica.
+
+### Ejemplos 
+- ```feature/v1.0.0/34-agregar-paciente```
+- ```hotfix/v2.3.2/1-crash-iniciar-sesion```
+- ```bugfix/v3.0.0/45-error-login-firebase```
+- ```release/v2.3.1```
+- ```docs/v1.0.0/EST-04-plantilla-PR```
+- ```test/v1.0.0/23-prueba-integracion``` 
+
+## Control de cambios
+
+| Version | Cambios realizados    | Autor          | Fecha      |
+| ------- | --------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de estándar | Jesús Cedillo | 24/02/2025 |
