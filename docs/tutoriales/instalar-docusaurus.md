@@ -72,7 +72,7 @@ Antes de usar Docusaurus, asegúrate de tener:
 
       Automáticamente se desplegará la página en tu navegador. 
 
-        Esto inicia un servidor de desarrollo local.  Verás los cambios en tiempo real mientras editas.
+        Esto inicia un servidor de desarrollo local. Verás los cambios en tiempo real mientras editas.
 
         En este caso, Docusaurus estará disponible en [`http://localhost:3000/Wiki`](http://localhost:3000/Wiki) 🚀.
        
