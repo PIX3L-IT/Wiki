@@ -6,7 +6,7 @@ slug: /gui-01-instalar-docusarus/
 
 # GUI-01-Guía de instalación de Docusaurus
 
-Docusaurus es un framework de documentación basado en React. Sigue estos pasos para instalarlo y configurarlo en tu ambiente de desarrollo.Usarlo es tan simple como hacer commits a un repo con carpetas y archivos de Markdown.
+Docusaurus es un framework de documentación basado en React. Sigue estos pasos para instalarlo y configurarlo en tu ambiente de desarrollo. Usarlo es tan simple como hacer commits a un repo con carpetas y archivos de Markdown.
 
 ## 💡 Requisitos previos
 Antes de usar Docusaurus, asegúrate de tener:
