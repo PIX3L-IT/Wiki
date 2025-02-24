@@ -95,7 +95,7 @@ Antes de usar Docusaurus, asegúrate de tener:
     *   **Crear un Pull Request (PR):**
         *   Crea un Pull Request desde tu rama (`mi-nueva-caracteristica`) hacia la rama principal (`main` o `master`).
         *   Describe los cambios en el PR.  *Sé detallado*.
-        *   Solicita revisiones a otros miembros del equipo
+        *   Solicita revisiones a otros miembros del equipo.
 
 
     *   **Merge:**
