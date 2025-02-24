@@ -63,7 +63,7 @@ Antes de usar Docusaurus, asegúrate de tener:
 
     :::info
 
-    En el caso de que salga un error como el siguiente: `MODULE_NOT_FOUND` desinstala la carpeta `node_modules` y corre
+    En el caso de que salga un error como el siguiente: `MODULE_NOT_FOUND` desinstala la carpeta `node_modules` y corre:
     ```bash
         npm install
         ```
