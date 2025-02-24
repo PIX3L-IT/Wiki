@@ -1,10 +1,10 @@
 ---
-title: Instalación de Docusaurus
-sidebar_label: Instalación de Docusaurus
-slug: /instalacion-docusaurus
+title: GUI-01-Guía de instalación de Docusaurus
+sidebar_label: GUI-01-Guía de instalación de Docusaurus
+slug: /gui-01-instalar-docusarus/
 ---
 
-# 📌 Instalación de Docusaurus en Ambiente Local
+# GUI-01-Guía de instalación de Docusaurus
 
 Docusaurus es un framework de documentación basado en React. Sigue estos pasos para instalarlo y configurarlo en tu ambiente de desarrollo.Usarlo es tan simple como hacer commits a un repo con carpetas y archivos de Markdown.
 
@@ -105,3 +105,13 @@ Antes de usar Docusaurus, asegúrate de tener:
 ¡Ahora tienes Docusaurus instalado y corriendo! 🎉 Puedes interactuar con la documentación modificando los archivos en `docs`.
 
 Docusaurus es una herramienta que pensamos que sería buena idea utilizar para la documentación, pues tiene control de versiones y esta hecha con react (lo cual nos abre la puerta a muchas opciones, incluyendo una barra de búsqueda global). 
+
+## Control de cambios
+
+| Versión | Cambios realizados    | Autor          | Fecha      |
+| ------- | --------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de guía | Alex Shimano | 18/02/2025 |
+| 1.0.1   | Corrección de faltas de ortografía | Alex Shimano | 18/02/2025 |
+| 1.1.0   | Eliminación de pasos de yarn| Alex Shimano | 20/02/2025 |
+
+

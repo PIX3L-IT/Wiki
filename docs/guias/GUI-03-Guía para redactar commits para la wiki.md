@@ -1,10 +1,10 @@
 ---
-title: GUI-01-Guía para redactar commits para la wiki
-sidebar_label: GUI-01-Guía para redactar commits para la wiki
-slug: /gui-01-redactar-commits-wiki/
+title: GUI-03-Guía para redactar commits para la wiki
+sidebar_label: GUI-03-Guía para redactar commits para la wiki
+slug: /gui-03-redactar-commits-wiki/
 ---
 
-# GUI-01-Guía para redactar commits para la wiki
+# GUI-03-Guía para redactar commits para la wiki
 
 ## Propósito
 
@@ -59,6 +59,6 @@ Esta guía explica cómo redactar el mensaje de un commit en el repositorio de l
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de guía | Jesús Cedillo & Paulina Almada | 21/02/2025 |

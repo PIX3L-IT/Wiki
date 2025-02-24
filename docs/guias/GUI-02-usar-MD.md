@@ -1,10 +1,10 @@
 ---
-title: Cómo Utilizar Markdown
-sidebar_label: Cómo Utilizar Markdown
-slug: /guia-markdown
+title: GUI-02-Guía de uso de Markdown
+sidebar_label: GUI-02-Guía de uso de Markdown
+slug: /gui-02-usar-markdown/
 ---
 
-# 📌 Cómo Utilizar Markdown
+# GUI-02-Guía de uso de Markdown
 Markdown es un lenguaje que nos permite formatear el texto de páginas de manera rápida y simple. Tiene su propia página de [documentación](https://www.markdownguide.org), pero aquí incluímos los elementos esenciales para la comodidad del despacho al trabajar en la wiki.
 
 ## Encabezados
