@@ -1,7 +1,7 @@
 ---
 title: PLNT-03-Plantilla de guías/manuales
 sidebar_label: PLNT-03-Plantilla de guías/manuales
-slug: /plnt-03-plantilla-de-guías/manuales
+slug: /guia01
 ---
 
 # PLNT-03-Plantilla de guías/manuales

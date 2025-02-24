@@ -16,7 +16,7 @@ El propósito de este documento es definir un estándar para el despacho de Pixe
     - *tipo-de-commit(scope): descripción*
     
 ### Componentes del Formato
-- Existen cinco distintos tipos de commits:
+- Existen siete distintos tipos de commits de acuerdo al [estándar](https://medium.com/@fatihsevencan/git-commit-standards-d76f2f5f5c7f) convencional:
 
 <table>
   <tr>
@@ -39,6 +39,14 @@ El propósito de este documento es definir un estándar para el despacho de Pixe
     <td>docs</td>
     <td>Realizan cambios en la documentación. Ejemplo: agregar la documentación de una función en el código.</td>
   </tr>
+  <tr>
+    <td>chore</td>
+    <td>Realizan cambios en archivos y herramientas de configuración o la organización de proyecto.</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>Realizan cambios con código relacionado con el testing como escenarios o código de prueba.</td>
+  </tr>
 </table>
 
 - El único scope relevante para commits de la wiki es la interfaz (UI). 
@@ -55,6 +63,8 @@ El propósito de este documento es definir un estándar para el despacho de Pixe
 - refactor: optimizar función de encontrarMejorRuta
 - style: mejorar legibilidad de la función agregarAmigo
 - docs: actualizar documentación de función agregarAmigo
+- chore: 
+- test: 
 
 ## Control de cambios
 
@@ -63,3 +73,4 @@ El propósito de este documento es definir un estándar para el despacho de Pixe
 | 1.0.0   | Creación de guía | Jesús Cedillo & Paulina Almada | 21/02/2025 |
 | 1.0.1   | Corrección de formato general | Paulina Almada | 21/02/2025 |
 | 1.1.0   | Correción de guía a estándar | Jesús Cedillo | 24/02/2025 |
+| 1.2.0   | Agregar chore y test | Jesús Cedillo & Paulina Almada | 24/02/2025 |
