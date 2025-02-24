@@ -67,8 +67,8 @@ El propósito de este documento es definir un estándar para el despacho de Pixe
 - refactor: optimizar función de encontrarMejorRuta
 - style: mejorar legibilidad de la función agregarAmigo
 - docs: actualizar documentación de función agregarAmigo
-- chore: 
-- test: 
+- chore: actualizar workflow de deploy y agregar workflow de validación de commits
+- test: agregar código de prueba para integración con firebase
 
 ## Control de cambios
 
