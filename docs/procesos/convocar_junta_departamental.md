@@ -1,10 +1,10 @@
 ---
-title: convocar_junta_departamental
-sidebar_label: convocar_junta_departamental
-slug: /convocar_junta_departamental
+title: Agendación de tema de junta Departamental
+sidebar_label: Agendación de tema de junta Departamental
+slug: /agendacion_tema
 ---
 
-# Agendación de temas de juntas departamentales
+# Agendación de un tema para junta departamental
 
 ## Propósito
 
