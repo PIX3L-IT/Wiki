@@ -79,8 +79,8 @@ Donde:
 - **Nota:** En el caso de las ramas release, no es necesario agregar el id y la descripción. Esto porque las ramas release preparan una salida a producción y no consiste de una funcionalidad específica.
 
 ### Ejemplos 
-- ```feature/v1.0.0/34-agregar-paciente```
-- ```hotfix/v2.3.2/1-crash-iniciar-sesion```
+- ```feature/v1.0.0/02-agregar-paciente```
+- ```hotfix/v2.3.2/01-crash-iniciar-sesion```
 - ```bugfix/v3.0.0/45-error-login-firebase```
 - ```release/v2.3.1```
 - ```docs/v1.0.0/EST-04-plantilla-PR```
