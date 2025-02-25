@@ -133,12 +133,3 @@ Ciertos formatos de Markdown se deshabilitan dentro de las tablas, como los enca
 
 ### Centrar Texto
 Para centrar texto en la página, puedes incluir los tags `<center>` `</center>` alrededor del texto.
-
-## Estándares para Escribir Markdown
-Al escribir en Markdown, hay ciertos estándares de estilo que aseguran que el código sea legible, mantenible y limpio: 
-
-- Se debe agregar un espacio después de los hashtags para los encabezados, el diple para empezar un bloque de citas, entre una palabra y un emoji y entre los tags de HTML y el texto afectado.
-- Se deben agregar dos saltos de línea (dejando una línea vacía) para un nuevo párrafo. Igualmente se requiere este espacio entre texto y bloques de código, entre texto e imágenes y entre el fin de una sección y un nuevo encabezado. 
-- No se debe agregar un espacio entre símbolos de formato (como brackets o asteriscos) y las palabras que están modificando. Tampoco se debe agregar un espacio entre el texto desplegado y el URL de un link. 
-- No se agregan líneas vacías entre elementos de una lista, entre columnas de tablas o entre encabezados y el texto de la sección.
-- Aunque no es necesario para mostrar las tablas correctamente, es recomendable asegurar que las columnas de la tabla en Markdown estén alineadas. 
