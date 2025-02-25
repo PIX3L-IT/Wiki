@@ -33,14 +33,14 @@ Se actualiza la versión de un archivo basado en los siguientes criterios:
 ### Versionamiento en la Wiki
 Al realizar un cambio en los documentos de la wiki, se debe actualizar la tabla de control de cambios en la parte inferior. Esta tabla se debe llenar de la siguiente manera:
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | El versionamiento correspondiente | Descripción breve de los cambios realizados. Siempre debe comenzar con un verbo en infinitivo o un sustantivo. Ejemplo: Inclusión de Lineamientos Generales. | Nombre(s) de los involucrados en la propuesta del cambio. No es necesariamente la persona que realizó el cambio en la wiki, sino quién la propuso. | Fecha en la que se realizó el cambio
 
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de estándar | Paulina Almada | 24/02/2025 |
 | 1.0.1   | Inclusión de formato de "Cambios realizados" | Jesús Cedillo | 24/02/2025 |
