@@ -59,7 +59,10 @@ El propósito de este documento es definir un estándar de nombramiento de ramas
 
 Donde: 
 1. **tipo-de-rama:** Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
-2. **version:** Representa el número de versión (por ejemplo, v1.0.0), conforme al estándar [EST-02](https://pix3l-it.github.io/Wiki/docs/estandares/est-02-versionamiento/).
+2. **version:** Representa el número de versión en formato `x.y.z` (por ejemplo, v1.0.0), conforme al estándar [EST-02](https://pix3l-it.github.io/Wiki/docs/estandares/est-02-versionamiento/).
+    - **x (Launches):** Representa el número del lanzamiento principal de la aplicación o producto. Ejemplo: en el primer lanzamiento del equipo, se usa el `1`. 
+    - **y (Sprint):** Indica el sprint en el que se está trabajando. Por ejemplo, en el Sprint 5, usarías 5 como valor de x.
+    - **z (Patch o Corrección):** Para pequeñas correcciones o ajustes puntuales sin agregar nuevas funcionalidades. Ejemplo: Si no se han realizado correcciones, se utiliza `0`; si se añade una corrección, se incrementa a `1`, y así sucesivamente.
 3. **id-descripción:** Combina un identificador y una breve descripción de lo que se trabajará en la rama.
     - **id:** 
         - En proyectos, se utiliza el identificador del requisito que se abordará.
@@ -84,3 +87,4 @@ Donde:
 | Version | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de estándar | Jesús Cedillo | 24/02/2025 |
+| 1.1.0   | Incluir versionamiento específico | Jesús Cedillo | 24/02/2025 |
