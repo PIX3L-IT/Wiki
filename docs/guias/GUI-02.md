@@ -142,7 +142,7 @@ Para centrar texto en la página, puedes incluir los tags `<center>` `</center>`
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de guía | Paulina Almada | 18/02/2025 |
 | 1.1.0   | Inclusión de formato de plantilla | Paulina Almada | 24/02/2025 |
