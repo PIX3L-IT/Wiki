@@ -1,7 +1,7 @@
 ---
 title: EST-01-Estándar para redactar commits en los repositorios
 sidebar_label: EST-01-Estándar para redactar commits en los repositorios
-slug: /est-01-redactar-commits/
+slug: /estandares/est-01-redactar-commits/
 ---
 
 # EST-01-Estándar para redactar commits en los repositorios
