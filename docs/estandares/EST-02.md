@@ -35,7 +35,7 @@ Al realizar un cambio en los documentos de la wiki, se debe actualizar la tabla 
 
 | Version | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
-| El versionamiento correspondiente | Descripción breve de los cambios realizados | Nombre(s) de los involucrados en la propuesta del cambio. No es necesariamente la persona que realizó el cambio en la wiki, sino quién la propuso. | Fecha en la que se realizó el cambio
+| El versionamiento correspondiente | Descripción breve de los cambios realizados. Siempre debe comenzar con un verbo en infinitivo o un sustantivo. Ejemplo: Inclusión de Lineamientos Generales. | Nombre(s) de los involucrados en la propuesta del cambio. No es necesariamente la persona que realizó el cambio en la wiki, sino quién la propuso. | Fecha en la que se realizó el cambio
 
 
 ## Control de cambios
@@ -43,3 +43,4 @@ Al realizar un cambio en los documentos de la wiki, se debe actualizar la tabla 
 | Version | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de estándar | Paulina Almada | 24/02/2025 |
+| 1.0.1   | Inclusión de formato de "Cambios realizados" | Jesús Cedillo | 24/02/2025 |
