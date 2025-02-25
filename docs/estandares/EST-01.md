@@ -72,7 +72,7 @@ El propósito de este documento es definir un estándar de commits para el despa
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de guía | Jesús Cedillo & Paulina Almada | 21/02/2025 |
 | 1.0.1   | Corrección de formato general | Paulina Almada | 21/02/2025 |
