@@ -88,7 +88,7 @@ Donde:
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de estándar | Jesús Cedillo | 24/02/2025 |
 | 1.1.0   | Inclusión versionamiento específico | Jesús Cedillo | 24/02/2025 |
