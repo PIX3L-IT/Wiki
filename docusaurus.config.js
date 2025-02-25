@@ -90,27 +90,27 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "politicasSidebar",
-            position: "left",
-            label: "Políticas",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "estandaresSidebar",
             position: "left",
             label: "Estándares",
           },
           {
             type: "docSidebar",
-            sidebarId: "plantillasSidebar",
+            sidebarId: "guiasSidebar",
             position: "left",
-            label: "Plantillas",
+            label: "Guías",
           },
           {
             type: "docSidebar",
-            sidebarId: "tutorialesSidebar",
+            sidebarId: "politicasSidebar",
             position: "left",
-            label: "Usar Docusaurus",
+            label: "Políticas",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "plantillasSidebar",
+            position: "left",
+            label: "Plantillas",
           },
           {
             href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
