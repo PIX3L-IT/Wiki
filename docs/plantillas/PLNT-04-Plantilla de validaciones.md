@@ -25,6 +25,6 @@ Describe el objetivo de la validación, y el proceso o actividad en el cual se r
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de plantilla | Carlos Galicia | 17/02/2025 |

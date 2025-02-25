@@ -1,22 +1,23 @@
 ---
-title: Instalación de Docusaurus
-sidebar_label: Instalación de Docusaurus
-slug: /instalacion-docusaurus
+title: GUI-01-Guía de instalación de Docusaurus
+sidebar_label: GUI-01-Guía de instalación de Docusaurus
+slug: /gui-01-instalar-docusarus/
 ---
 
-# 📌 Instalación de Docusaurus en Ambiente Local
+# GUI-01-Guía de instalación de Docusaurus
 
-Docusaurus es un framework de documentación basado en React. Sigue estos pasos para instalarlo y configurarlo en tu ambiente de desarrollo.Usarlo es tan simple como hacer commits a un repo con carpetas y archivos de Markdown.
+## Propósito
+El propósito de esta guía es facilitar el proceso de instalación y configuración de Docusaurus en el ambiente de desarrollo de los miembros de Pixel.IT.
 
-## 💡 Requisitos previos
+Docusaurus es un framework de documentación basado en React.  Usarlo es tan simple como hacer commits a un repo con carpetas y archivos de Markdown.
+
+## Procedimiento
+
+###  Requisitos previos
 Antes de usar Docusaurus, asegúrate de tener:
 - [Node.js](https://nodejs.org/) v16 o superior
 
-
-
-## 🎯 Instalación y uso
-
-
+###  Instalación y uso
     *   **Descargar docusaurus:**
         ```bash
         npm install docusaurus
@@ -101,7 +102,18 @@ Antes de usar Docusaurus, asegúrate de tener:
     *   **Merge:**
         *   Una vez que el PR sea aprobado, la rama será fusionada con main. Una vez hecho esto, automaticamente se desplegarán los cambios en la página de github donde todos lo podrán consultar.
 
-## ✅ Conclusión
+###  Conclusión
 ¡Ahora tienes Docusaurus instalado y corriendo! 🎉 Puedes interactuar con la documentación modificando los archivos en `docs`.
 
-Docusaurus es una herramienta que pensamos que sería buena idea utilizar para la documentación, pues tiene control de versiones y está hecha con react (lo cual nos abre la puerta a muchas opciones, incluyendo una barra de búsqueda global). 
+Docusaurus es una herramienta que pensamos que sería buena idea utilizar para la documentación, pues tiene control de versiones y esta hecha con React (lo cual nos abre la puerta a muchas opciones, incluyendo una barra de búsqueda global).
+
+## Control de cambios
+
+| Versión | Cambios realizados    | Autor          | Fecha      |
+| ------- | --------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de guía | Alex Shimano | 18/02/2025 |
+| 1.0.1   | Corrección de faltas de ortografía | Alex Shimano | 18/02/2025 |
+| 1.1.0   | Eliminación de pasos de yarn | Alex Shimano | 20/02/2025 |
+| 1.2.0 |  Inclusión de formato de plantilla | Paulina Almada | 24/02/2025 |
+
+
