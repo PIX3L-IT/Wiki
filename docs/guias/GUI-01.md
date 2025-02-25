@@ -12,11 +12,7 @@ Docusaurus es un framework de documentación basado en React. Sigue estos pasos 
 Antes de usar Docusaurus, asegúrate de tener:
 - [Node.js](https://nodejs.org/) v16 o superior
 
-
-
 ## 🎯 Instalación y uso
-
-
     *   **Descargar docusaurus:**
         ```bash
         npm install docusaurus
