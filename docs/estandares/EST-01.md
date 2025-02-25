@@ -7,7 +7,7 @@ slug: /est-01-redactar-commits/
 # EST-01-Estándar para redactar commits en los repositorios
 
 ## Propósito
-El propósito de este documento es definir un estándar de commits para el despacho de Pixel.IT en todos sus repositorios, para garantizar la consistencia y poder entender todos los cambios realizados por los miembros de Pixel.IT
+El propósito de este documento es definir un estándar de commits para el despacho de Pixel.IT en todos sus repositorios, para garantizar la consistencia y poder entender todos los cambios realizados por los miembros de Pixel.IT.
 
 ## Artefactos en los que aplica
 
