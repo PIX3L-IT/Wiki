@@ -90,13 +90,14 @@ Esta guía describe el procedimiento para instalar un git hook local en el repos
 3. **Paso 3: Renombrar el archivo**
    Cambia el nombre del archivo de `commit-msg.sample` a `commit-msg` para que se ejecute al hacer commit.
 
-Al hacer esto tendrás correctamente instalado el git hook para que todos tus commits sigan el estándar del departamento, puedes hacer uno de prueba para verificar que funcione correctamente.
+Al hacer esto tendrás correctamente instalado el git hook para que todos tus commits sigan el estándar [EST-01](https://pix3l-it.github.io/Wiki/docs/estandares/est-01-redactar-commits/) del departamento, puedes hacer uno de prueba para verificar que funcione correctamente.
 
 ## Control de cambios
 
 | Versión | Cambios realizados                               | Autor            | Fecha      |
 | -------- | ---------------------------------------------- | ---------------- | ---------- |
 | 1.0.0    | Creación de la guía de instalación del git hook | Alex Shimano    | 25/02/2025 |
+| 1.0.1    | Inclusión de liga del estándar de commits | Jesús Cedillo    | 25/02/2025 |
 
 
 
