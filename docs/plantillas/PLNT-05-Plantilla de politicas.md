@@ -26,6 +26,6 @@ Describe los motivos por los cuales las políticas sobre el tema son necesarias.
 
 ## Control de cambios
 
-| Version | Cambios realizados    | Autor          | Fecha      |
+| Versión | Cambios realizados    | Autor          | Fecha      |
 | ------- | --------------------- | -------------- | ---------- |
 | 1.0.0   | Creación de plantilla | Carlos Galicia | 17/02/2025 |
