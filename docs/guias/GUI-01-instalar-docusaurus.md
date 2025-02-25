@@ -63,7 +63,7 @@ Antes de usar Docusaurus, asegúrate de tener:
 
     :::info
 
-    En el caso de que salga un error como el siguiente: `MODULE_NOT_FOUND` desinstala la carpeta `node_modules` y corre
+    En el caso de que salga un error como el siguiente: `MODULE_NOT_FOUND` desinstala la carpeta `node_modules` y corre:
     ```bash
         npm install
         ```
@@ -72,9 +72,9 @@ Antes de usar Docusaurus, asegúrate de tener:
 
       Automáticamente se desplegará la página en tu navegador. 
 
-        Esto inicia un servidor de desarrollo local.  Verás los cambios en tiempo real mientras editas.
+        Esto inicia un servidor de desarrollo local. Verás los cambios en tiempo real mientras editas.
 
-        En este caso, Docusaurus estará disponible en [`http://localhost:3000/Wiki`](http://localhost:3000/Wiki) 🚀.
+        En este caso, Docusaurus estará disponible en [`http://localhost:3000/Wiki`] (http://localhost:3000/Wiki) 🚀.
        
 
     *   **Añadir, Confirmar y Subir Cambios:**
@@ -95,7 +95,7 @@ Antes de usar Docusaurus, asegúrate de tener:
     *   **Crear un Pull Request (PR):**
         *   Crea un Pull Request desde tu rama (`mi-nueva-caracteristica`) hacia la rama principal (`main` o `master`).
         *   Describe los cambios en el PR.  *Sé detallado*.
-        *   Solicita revisiones a otros miembros del equipo
+        *   Solicita revisiones a otros miembros del equipo.
 
 
     *   **Merge:**
