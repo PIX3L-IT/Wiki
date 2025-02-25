@@ -1,7 +1,7 @@
 ---
 title: EST-03-Estándar para nombrar a las ramas en los repositorios
 sidebar_label: EST-03-Estándar para nombrar a las ramas en los repositorios
-slug: /est-03-nombrar-ramas
+slug: /estandares/est-03-nombrar-ramas
 ---
 
 # EST-03-Estándar para nombrar a las ramas en los repositorios
@@ -59,7 +59,7 @@ El propósito de este documento es definir un estándar de nombramiento de ramas
 
 Donde: 
 1. **tipo-de-rama:** Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
-2. **version:** Representa el número de versión (por ejemplo, v1.0.0). Para más información sobre el versionamiento, consultar EST-02.
+2. **version:** Representa el número de versión (por ejemplo, v1.0.0), conforme al estándar [EST-02](https://pix3l-it.github.io/Wiki/docs/estandares/est-02-versionamiento/).
 3. **id-descripción:** Combina un identificador y una breve descripción de lo que se trabajará en la rama.
     - **id:** 
         - En proyectos, se utiliza el identificador del requisito que se abordará.
