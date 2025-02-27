@@ -48,6 +48,8 @@ Las siguientes plantillas se proporcionarán para garantizar la uniformidad:
 
 - [Plan de Valor Ganado](https://docs.google.com/spreadsheets/d/1dOW5fjgkyB4axG_45Fw_hiLksbt_gPMQJs9H98_bPGg/edit?gid=0#gid=0)
 
+- [Plan de comunicación](https://docs.google.com/document/d/18GNWAAV9o4mgwpx2-ZBG6ccsrwgah2GpsDFXXCgi7ok/edit?usp=sharing)
+
 ## Control de cambios​
 
 | Versión | Cambios realizados | Autor | Fecha |
@@ -56,3 +58,4 @@ Las siguientes plantillas se proporcionarán para garantizar la uniformidad:
 | 1.1.0   | Revisión y sugerencias | Paulina Fernanda Almada Martínez | 25/02/2025 |
 | 1.2.0   | Agregar plantilla Plan de Recursos | María José Gaytán Gil | 25/02/2025 |
 | 1.3.0   | Agregar plantilla Plan de Valor Ganado | Carlos Galicia | 26/02/2025 |
+| 1.4.0   | Agregar plantilla Plan de comunicación | Mónica Martínez | 26/02/2025 |
