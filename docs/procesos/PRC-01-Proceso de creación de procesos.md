@@ -21,7 +21,7 @@ Entregar una metodología que permita a los miembros del departamento definir nu
 
 - [PLNT-01-Plantilla de procesos](https://pix3l-it.github.io/Wiki/docs/plnt-01-plantilla-de-procesos)
 - [Excel “Compromiso departamental”](https://docs.google.com/spreadsheets/d/1RRB6jh7V_bR9adNpOoehV3PxprRBelh4XOofEedCx2c/edit?usp=sharing)
-- [VAL-01-Validación de Procesos](https://pix3l-it.github.io/Wiki/docs/estandares/val-01-validacion-de-procesos)
+- [VAL-01-Validación de Procesos](https://pix3l-it.github.io/Wiki/docs/val-01-validacion-de-procesos)
 - [EST-01-Estándar para redactar commits en los repositorios](https://pix3l-it.github.io/Wiki/docs/estandares/est-01-redactar-commits/)
 - [EST-03-Estándar para nombrar a las ramas en los repositorios](https://pix3l-it.github.io/Wiki/docs/estandares/est-03-nombrar-ramas)
 
@@ -67,3 +67,4 @@ El autor registra el estatus de “Rechazado” en el Excel de [“Compromiso de
 | 1.0.0    | Creación de proceso                                          | Mónica Monserrat Martínez Vásquez, Samir Baidon Pardo, Luis Isauro Zamano Morales, Diego Lira Garcia | 27/02/2025  |
 | 1.1.0    | Identificación de Áreas de proceso y prácticas asociadas | Samir Baidon Pardo                                                                                      | 27/02/20225 |
 | 1.1.1    | Linkear la validación de los procesos | Luis Zámano                                                                                      | 27/02/20225 |
+| 1.1.1    | Linkear la validación de los procesos correctamente | Luis Zámano                                                                                      | 27/02/20225 |

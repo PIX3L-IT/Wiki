@@ -50,3 +50,10 @@ Se agrega una plantilla de Pull Request para estandarizar la creación de PRs en
 
 - [ ] Otro desarrollador ha revisado este PR y lo ha aprobado.
 - [X] La rama será eliminada después de la aprobación.
+
+## Control de cambios
+
+| Versión | Cambios realizados    | Autor          | Fecha      |
+| ------- | --------------------- | -------------- | ---------- |
+| 1.0.0   | Creación de plantilla | Axel Camacho | 24/02/2025   |
+| 1.0.1   | Agregar control de cambios | Axel Camacho | 27/02/2025 |
