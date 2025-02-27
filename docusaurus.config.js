@@ -113,6 +113,12 @@ const config = {
             label: "Plantillas",
           },
           {
+            type: "docSidebar",
+            sidebarId: "validacionesSidebar",
+            position: "left",
+            label: "Validaciones",
+          },
+          {
             href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
             label: "Drive",
             position: "right",
