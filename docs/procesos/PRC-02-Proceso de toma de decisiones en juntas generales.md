@@ -3,7 +3,7 @@ title: PRC-02-Proceso de toma de decisiones en juntas generales
 sidebar_label: PRC-02-Proceso de toma de decisiones en juntas generales
 slug: /prc-02-proceso-de-decisiones-juntas
 ---
-# PRO-02-Proceso de toma de decisiones en juntas generales
+# PRC-02-Proceso de toma de decisiones en juntas generales
 
 
 ## Propósito
