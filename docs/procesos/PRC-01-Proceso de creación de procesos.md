@@ -67,4 +67,4 @@ El autor registra el estatus de “Rechazado” en el Excel de [“Compromiso de
 | 1.0.0    | Creación de proceso                                          | Mónica Monserrat Martínez Vásquez, Samir Baidon Pardo, Luis Isauro Zamano Morales, Diego Lira Garcia | 27/02/2025  |
 | 1.1.0    | Identificación de Áreas de proceso y prácticas asociadas | Samir Baidon Pardo                                                                                      | 27/02/20225 |
 | 1.1.1    | Linkear la validación de los procesos | Luis Zámano                                                                                      | 27/02/20225 |
-| 1.1.1    | Linkear la validación de los procesos correctamente | Luis Zámano                                                                                      | 27/02/20225 |
+| 1.1.2    | Linkear la validación de los procesos correctamente | Luis Zámano                                                                                      | 27/02/20225 |
