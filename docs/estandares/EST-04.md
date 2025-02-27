@@ -27,7 +27,7 @@ Los documentos deben seguir los siguientes lineamientos:
 - **Tamaño del texto:**
   - **Títulos principales:** 16px, negritas
   - **Subtítulos:** 14px, negritas
-  - **Cuerpo de texto:** 12px
+  - **Cuerpo de texto:** 11px
 - **Interlineado:** 1.5
 - **Alineación:** Justificado
 - **Márgenes:** 2.5 cm en todos los lados
@@ -44,7 +44,7 @@ Los documentos deben seguir los siguientes lineamientos:
 
 ### Imágenes y Tablas
 
-- Todas las imágenes deben incluir una descripción o pie de imagen.
+- Todas las imágenes deben incluir una descripción o pie de imagen (9px).
 - Las tablas deben estar numeradas y con títulos descriptivos.
 
 ### Plantillas
@@ -64,3 +64,4 @@ Las siguientes plantillas se proporcionarán para garantizar la uniformidad:
 | 1.2.0    | Agregar plantilla Plan de Recursos      | María José Gaytán Gil              | 25/02/2025 |
 | 1.3.0    | Agregar plantilla Plan de Valor Ganado  | Carlos Galicia                        | 26/02/2025 |
 | 1.4.0    | Agregar plantilla Plan de comunicación | Mónica Martínez, Samir Baidon Pardo, Miguel Barrón | 26/02/2025 |
+| 1.4.1    | Hotfix tamaño de letra                 | María José Gaytán Gil                   | 27/02/2025      |
