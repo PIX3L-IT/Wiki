@@ -141,10 +141,6 @@ const config = {
                 href: "https://drive.google.com/drive/folders/1yoYJSe2ne53PzQIaP8plXMehL3rZbWKq?usp=drive_link",
               },
               {
-                label: "Discord",
-                href: "https://discord.gg/avGvj3GGcr",
-              },
-              {
                 label: "Notion",
                 href: "https://stackoverflow.com/questions/tagged/docusaurus",
               },
