@@ -48,5 +48,5 @@ Se agrega una plantilla de Pull Request para estandarizar la creación de PRs en
 ## Lista de verificación:
 <!--- Revisa todos los siguientes puntos y marca con una `x` los que apliquen. -->
 
-- [X] Otro desarrollador ha revisado este PR y lo ha aprobado.
+- [ ] Otro desarrollador ha revisado este PR y lo ha aprobado.
 - [X] La rama será eliminada después de la aprobación.
