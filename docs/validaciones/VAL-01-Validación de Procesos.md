@@ -28,10 +28,11 @@ Al finalizar, es requisito garantizar que:
 
 ## Artefactos en los que se utiliza
 
-- Nombre del documento: [Proceso para Procesos](https://pix3l-it.github.io/Wiki/docs/prc-1-proceso-para-hacer-procesos).
+- Nombre del documento: [Proceso para Procesos](https://pix3l-it.github.io/Wiki/docs/prc-01-proceso-de-procesos).
 
 ## Control de cambios
 
 | Versión | Cambios realizados                       | Autor                           | Fecha      |
 | ------- | ---------------------------------------- | ------------------------------- | ---------- |
-| 1.0.0   | Creación de plantilla                    | Luis Zámano                     | 25/02/2025 |
+| 1.0.0   | Creación de validación                   | Luis Zámano                     | 25/02/2025 |
+| 1.0.1   | Edición del documento de uso             | Luis Zámano                     | 27/02/2025 |
