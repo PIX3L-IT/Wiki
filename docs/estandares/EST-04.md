@@ -63,4 +63,4 @@ Las siguientes plantillas se proporcionarán para garantizar la uniformidad:
 | 1.1.0    | Revisión y sugerencias                 | Paulina Fernanda Almada Martínez     | 25/02/2025 |
 | 1.2.0    | Agregar plantilla Plan de Recursos      | María José Gaytán Gil              | 25/02/2025 |
 | 1.3.0    | Agregar plantilla Plan de Valor Ganado  | Carlos Galicia                        | 26/02/2025 |
-| 1.4.0    | Agregar plantilla Plan de comunicación | Mónica Martínez, Samir Baidon Pardo | 26/02/2025 |
+| 1.4.0    | Agregar plantilla Plan de comunicación | Mónica Martínez, Samir Baidon Pardo, Miguel Barrón | 26/02/2025 |
