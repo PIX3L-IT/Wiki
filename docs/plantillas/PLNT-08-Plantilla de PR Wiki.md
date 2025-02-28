@@ -1,3 +1,11 @@
+---
+title: PLNT-08-Plantilla de PR Wiki
+sidebar_label: PLNT-08-Plantilla de PR Wiki
+slug: /plnt-08-plantilla-de-pr-wiki
+---
+
+# PLNT-08-Plantilla de PR Wiki
+
 ## Markdown
 
 ```
