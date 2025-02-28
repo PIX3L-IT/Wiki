@@ -17,7 +17,7 @@ Asegurar que los procesos sigan los estándares establecidos por el departamento
 - [ ] El proceso es nuevo y no duplica actividades de otros procesos existentes.
 - [ ] El título del proceso incluye un identificador único, está redactado en infinitivo y es descriptivo.
 - [ ] La estructura del proceso sigue los lineamientos establecidos en la plantilla oficial.
-- [ ] Cada actividad está correctamente asignada a una práctica de CMMI relevante.
+- [ ] La mayoria de las actividades estan correctamente asignada a una práctica de CMMI relevante.
 - [ ] Las entradas y salidas del proceso son coherentes con las etapas y sus descripciones.
 - [ ] Se utiliza numeración en listas cuando el orden es relevante; de lo contrario, se emplean viñetas.
 
@@ -36,3 +36,4 @@ Al finalizar, es requisito garantizar que:
 | ------- | ---------------------------------------- | ------------------------------- | ---------- |
 | 1.0.0   | Creación de validación                   | Luis Zámano                     | 25/02/2025 |
 | 1.0.1   | Edición del documento de uso             | Luis Zámano                     | 27/02/2025 |
+| 1.0.2   | Corrección de algunos puntos de validación| Mónica Martínez                 | 27/02/2025 |
