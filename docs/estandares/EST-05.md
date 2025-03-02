@@ -102,24 +102,25 @@ Sólo se incluye si es necesario agregar información no cubierta en secciones a
 
 ## Cambios sobre el estándar IEEE 830
 
-Con la finalidad de alinear lo más posible el estándar con las prácticas definidas en el CMMI-DEV 1.3 y la metodología DAD, al igual que asegurar que todas las secciones sean de utilidad,  realizamos adaptaciones en las siguientes secciones:
+Con la finalidad de alinear lo más posible el estándar con las prácticas definidas en el CMMI-DEV 1.3 y la metodología DAD, y asegurar que todas las secciones sean de utilidad, realizamos adaptaciones en las siguientes secciones:
 
-- Cambiamos la sección 2.2 de “Funciones del producto” a “Visión del proyecto”. Creemos que la visión del proyecto representa una mejor forma de plasmar lo que queremos lograr en el proyecto. Adicionalmente, el estándar IEEE 830 menciona que la sección debe incluir lo que hace el sistema a grandes rasgos, y esto ya forma parte de la sección 1.2 “Ámbito del sistema”.
+- Cambiamos la sección 2.2 de “Funciones del producto” a “Visión del proyecto”, ya que consideramos que esta última refleja de manera más precisa lo que deseamos lograr. Además, el estándar IEEE 830 indica que esta sección debe describir, a grandes rasgos, lo que hace el sistema, lo cual ya se aborda en la sección 1.2 “Ámbito del sistema”.
 
-- Eliminamos la sección 2.6 de “Requisitos futuros”, ya que al priorizar las historias de usuario usando MoSCoW, las HU que priorizamos como “Would” constituyen requisitos futuros, lo que genera ambigüedad en dicha sección.
+- Eliminamos la sección 2.6 de “Requisitos futuros”, ya que al priorizar las historias de usuario utilizando el método MoSCoW, las historias clasificadas como “Would” ya representan requisitos futuros, generando así ambigüedad en esta sección.
 
-- Eliminamos la sección 3.6 de “Otros requisitos” por ser ambiguo y dar lugar a interpretaciones subjetivas, lo que va en contra del principio de institucionalización y estandarización de procesos definido en el CMMI.
+- Eliminamos la sección 3.6 de “Otros requisitos” por tratarse de un apartado ambiguo y sujeto a interpretaciones subjetivas, lo cual contradice el principio de institucionalización y estandarización de procesos establecido en el CMMI.
 
-- En la sección 3.2, optamos por usar Historias de Usuario en lugar de Casos de Uso. A diferencia de los Casos de Uso, dirigido a los desarrolladores, las Historias de Usuario permiten describir los requisitos de manera simple y enfocada a los usuarios, facilitando la comunicación y validación con stakeholders.
+- En la sección 3.2, optamos por usar Historias de Usuario en lugar de Casos de Uso. A diferencia de los Casos de Uso, que están orientados a los desarrolladores, las Historias de Usuario permiten describir los requisitos de manera simple y centrada en el usuario, facilitando la comunicación y validación con los stakeholders.
 
-- Para tener una trazabilidad de los requerimientos en todas sus fases, y llevar un registro de los spikes (requerimientos de bajo nivel) se incluye la matriz RTM en la sección 3.2.1. 
+- Para mantener la trazabilidad de los requerimientos en todas sus fases y llevar un registro de los requerimientos de bajo nivel incluimos la matriz RTM en la sección 3.2.1. 
 
-- Decidimos cambiar la sección 3.3 de “Requisitos de rendimiento” a “Diagrama de la base de datos (MER)”. Los requisitos de rendimiento forman parte de los requisitos no funcionales, y estos son incluidos en la sección 3.5. El MER forma parte importante del análisis, y creemos que es más útil tenerlo junto con el SRS. 
+- Decidimos cambiar la sección 3.3 de “Requisitos de rendimiento” a “Diagrama de la base de datos (MER)”. Los requisitos de rendimiento forman parte de los requisitos no funcionales, los cuales se incluyen en la sección 3.5. Consideramos que el MER es una herramienta esencial para el análisis y resulta más útil integrarlo en el SRS.
 
-- La sección 3.5 cambia de nombre de “Atributos del sistema” a “Requisitos no funcionales”, para incluir todos los atributos de calidad que ocupa el sistema al igual que el diagrama de despliegue. 
+- La sección 3.5 cambia de nombre de “Atributos del sistema” a “Requisitos no funcionales”, para incluir tanto los atributos de calidad del sistema como el diagrama de despliegue.
 
 ## Control de cambios
 
 | Versión | Cambios realizados                       | Autor                           | Fecha      |
 | ------- | ---------------------------------------- | ------------------------------- | ---------- |
 | 1.0.0   | Creación de estándar                    | Diego García & Jesús Cedillo      | 25/02/2025 |
+| 1.0.1   | Correcciones de estilo                  |  Jesús Cedillo      | 01/03/2025 |
