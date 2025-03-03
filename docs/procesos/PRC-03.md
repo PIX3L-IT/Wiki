@@ -37,13 +37,13 @@ Persona voluntaria del departamento encargada de planear y coordinar la activida
 - No todos los miembros del grupo están obligados a participar en la actividad.
 
 ### Cantidad de gente
-- En caso de que exista una alta participación del despacho y la actividad elegida no permita la inclusión de todos, se organizarán varias actividades simultáneas. No obstante, lo ideal es que todo el departamento participe en la misma.
+- En caso de que exista una alta participación del despacho y la actividad elegida no permite la inclusión de todos, se organizarán varias actividades simultáneas. No obstante, lo ideal es que todo el departamento participe en la misma.
 
 ### Integración de distintos proyectos
-- Con el objetivo de fomentar la integración entre miembros del equipo que no colaboran en el mismo proyecto, cuando se realicen varias actividades simultáneas se asignará a cada participante un número, y el desarrollo del juego dependerá de esa asignación.
+- Con el objetivo de fomentar la integración entre miembros del equipo que no colaboran en el mismo proyecto, cuando se realicen varias actividades simultáneas se asignará a cada participante un número, y el desarrollo de la actividad dependerá de esa asignación.
 
 ### Encuesta
-- Para optimizar el proceso y evitar la duplicación de encuestas, se deberá integrar la encuesta sobre el nivel de integración del departamento con la que utilizan los PMs en sus propias evaluaciones, de esta forma centralizamos todo en una misma liga.
+- Para optimizar el proceso y evitar la duplicación de encuestas, se deberá integrar la encuesta sobre el nivel de integración del departamento con la que utilizan los PMs en sus propias evaluaciones, de esta forma centralizando todo en una misma liga. 
 
 ## Control de cambios​
 
