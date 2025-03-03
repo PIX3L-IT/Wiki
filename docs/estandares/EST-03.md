@@ -61,17 +61,17 @@ Donde:
 1. **tipo-de-rama:** Indica la categoría de la rama (por ejemplo, feature, bugfix, hotfix, etc.).
 2. **version:** Representa el número de versión en formato `x.y.z` (por ejemplo, v1.0.0), conforme al estándar [EST-02](https://pix3l-it.github.io/Wiki/docs/estandares/est-02-versionamiento/).
     - **x (Launches):** Representa el número del lanzamiento principal de la aplicación o producto. Ejemplo: en el primer lanzamiento del equipo, se usa el `1`. 
-    - **y (Sprint):** Indica el sprint en el que se está trabajando. Por ejemplo, en el Sprint 5, usarías 5 como valor de x.
-    - **z (Patch o Corrección):** Para pequeñas correcciones o ajustes puntuales sin agregar nuevas funcionalidades. Ejemplo: Si no se han realizado correcciones, se utiliza `0`; si se añade una corrección, se incrementa a `1`, y así sucesivamente.
-    - **Ejemplo:** Con una referencia del primer lanzamiento, y el cuarto sprint, este sería un el flujo de como se crean las ramas:
+    - **y (Sprint):** Indica el sprint en el que se está trabajando. Por ejemplo, el Sprint cinco tendría un 5 como valor de x.
+    - **z (Patch o Corrección):** Para pequeñas correcciones o ajustes puntuales sin agregar nuevas funcionalidades. Ejemplo: Si no se realizaron correcciones, se utiliza `0`; si se añade una corrección, incrementa a `1`, y así sucesivamente.
+    - **Ejemplo:** Con una referencia del primer lanzamiento y el cuarto sprint, este sería un el flujo de cómo se crean las ramas:
         1. `feature/v1.4.0/01-nuevo-login`: La implementación de la funcionalidad. La rama es cerrada después de pasar las pruebas. 
-        2. `bugfix/v1.4.1/01-crash-login`: Un error crítico es encontrado después de que la rama fue cerrada. Incrementa la `z` para dar 1.4.1. Ya que fue corregido la rama es cerrada. 
-        3. `feature/v1.4.0/02-agregar-paciente`: Cuando se crea un nuevo feature, se inicia su versión con el patch en 0, sin importar que en otro feature se hayan aplicado patches. Esto significa que cada feature tiene su propia secuencia de versiones de patches. 
+        2. `bugfix/v1.4.1/01-crash-login`: Un error crítico es encontrado un tiempo después. Incrementa la `z` para dar 1.4.1. Ya que se corrigió la rama es cerrada. 
+        3. `feature/v1.4.0/02-agregar-paciente`: Cuando se crea un nuevo feature, se inicia su versión con el patch en 0, sin importar que en otro feature se aplicaron patches. Esto significa que cada feature tiene su propia secuencia de versiones de patches. 
 3. **id-descripción:** Combina un identificador y una breve descripción de lo que se trabajará en la rama.
     - **id:** 
         - En proyectos, utiliza el identificador del requisito que se abordará.
         - En la wiki, utiliza una abreviación que indique el tipo de contenido (por ejemplo, proceso, estándar, guía, etc.) seguida de un número.
-        - Ejemplo: Si se agrega un nuevo estándar y el último es ```EST-08```, el identificador de la rama será: ```EST-09```.
+        - Ejemplo: Si el estándar más reciente es ```EST-08```, el identificador de la nueva rama será: ```EST-09```.
     - **descripción:**
         - En la wiki, incluye una breve descripción del proceso, estándar o guía que se trabajará.
         - En proyectos, ofrece una breve descripción de la tarea o funcionalidad que se implementará.
