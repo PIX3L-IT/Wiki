@@ -21,7 +21,7 @@ Persona voluntaria del departamento encargada de planear y coordinar la activida
 | Etapa | Actividad | Responsable | Áreas de proceso y prácticas asociadas |
 |-------|----------|-------------|------------------------------------------|
 | **Planeación** | Elegir y preparar la actividad de integración. | Integrador Owner | N/A |
-| **Bienvenida** | Dar inicio a la actividad, mencionando la actividad a realizar. Dado que el viernes tenemos 2 horas destinadas, 1 hora será para junta y la otra hora para la actividad. | Integrador Owner | N/A |
+| **Bienvenida** | Dar inicio a la actividad, mencionando la actividad a realizar. Esta se llevará a cabo todos los lunes de 7:00 a 8:00 pm. | Integrador Owner | N/A |
 | **Actividad de integración** | Sesión de integración (juegos de mesa, videojuegos, actividades). | Todos los miembros | N/A |
 | **Recopilación de Evidencia** | Tomar la evidencia (foto) durante la realización de la actividad. | Integrador Owner | N/A |
 | **Seguimiento** | Una semana después, evaluar cómo ha impactado la actividad en la integración del equipo. | Integrador Owner | OT SP2.3 - Evaluar la eficacia de la formación. |
@@ -50,3 +50,4 @@ Persona voluntaria del departamento encargada de planear y coordinar la activida
 | Versión | Cambios realizados | Autor | Fecha |
 |---------|-------------------|-------|--------|
 | 1.0.0 | Creación de proceso | María José Gaytán Gil & Jesús Cedillo | 27/02/2025 |
+| 1.0.1 | Ajuste de horario | María José Gaytán Gil & Jesús Cedillo | 03/03/2024 |
